@@ -1,2 +1,17 @@
-# legal-due-diligence-and-compliance-toolkit
-A complete corporate due diligence and compliance toolkit for Indian companies with comparative insights.
+Legal Due Diligence & Compliance Toolkit
+This repository contains a practical Legal Due Diligence and Compliance Toolkit with structured checklists, red-flag analysis, and reporting formats to support corporate legal risk assessment and compliance review, primarily in the Indian context.
+Coverage
+	•	Corporate and secretarial due diligence
+	•	Financial and tax compliance review
+	•	Employment and labour law compliance
+	•	Intellectual property and technology review
+	•	Litigation, disputes, and regulatory exposure
+	•	Ongoing statutory and regulatory compliance tracking
+Who Can Use This
+	•	Law students, corporate lawyers, in-house teams
+How to Use
+	•	Review checklists → identify red flags → prepare DD report
+Jurisdiction
+	•	Primary focus: India
+Disclaimer
+	•	Academic & informational use only, not legal advice
